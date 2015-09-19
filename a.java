@@ -1,4 +1,1 @@
-21
-qq
-aa
-bb
+LICENSE
